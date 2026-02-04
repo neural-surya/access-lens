@@ -128,6 +128,9 @@ The app will be available at `http://localhost:5000`
 - `DELETE /api/audits/:id` - Delete an audit
 - `GET /api/audits/:id/issues` - Get issues for an audit
 
-## License
+<img width="1330" height="760" style="border: 3px solid #E6D6D3;" alt="Screenshot 2026-02-04 at 12 46 47 AM" src="https://github.com/user-attachments/assets/484ea32b-20ac-46ab-bc21-d3ddf8731a41" />
+<br><br>
+<img width="1329" height="605" style="border: 3px solid #E6D6D3;" alt="Screenshot 2026-02-04 at 12 42 08 AM" src="https://github.com/user-attachments/assets/8fa8f44f-f307-471b-b9f0-41a5204adec2" />
 
-MIT
+
+
